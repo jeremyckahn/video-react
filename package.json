@@ -2,6 +2,7 @@
   "name": "@jeremyckahn/video-react",
   "version": "0.13.5-canary.1",
   "description": "Video-React is a web video player built from the ground up for an HTML5 world using React library.",
+  "module": "lib/index.js",
   "main": "dist/video-react.full.js",
   "style": "dist/video-react.css",
   "scripts": {
